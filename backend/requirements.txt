@@ -3,4 +3,3 @@ flask-cors
 openai
 whisper
 werkzeug
-ffmpeg
