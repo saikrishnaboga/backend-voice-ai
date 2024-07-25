@@ -3,4 +3,4 @@ flask-cors
 openai
 whisper
 werkzeug
-fluent-ffmpeg
+ffmpeg
